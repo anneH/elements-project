@@ -1,6 +1,6 @@
-# Basic Project :+1:
+# Elements Project :+1:
 
-*Structure for creating a basic project*
+*Elements project*
 
 **Java 8**
 
